@@ -1,0 +1,25 @@
+{
+  "completionTime": 11294,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp2086source8b2d6ad1d45445c4af33184597b9e641",
+  "inputTokens": 1771,
+  "outputTokens": 199,
+  "pages": [
+    {
+      "content": "<logo>MARKS & SPENCER</logo>\n\n马莎北京世贸天阶店\n北京市朝阳区世贸天阶南阶L137\n\n电话：010-65871226\n传真：010-65871225\n\n859 交易1类     2593 1923 106\n\n00917407 DDD CHOC     1     10.00\n总数量              1\n总额                    10.00\n\n现金                    10.00\n\nM&S官网和马莎天猫官方旗舰店\n正式全新震撼呈现\n详情请登录www.marksandspencer.cn\nRefund before 29/JAN/2016\n24/12/15 16:16\n\n<watermark>C&M</watermark>",
+      "inputTokens": 1771,
+      "outputTokens": 199,
+      "contentLength": 351,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

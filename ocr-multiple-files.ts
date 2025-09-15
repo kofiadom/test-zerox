@@ -8,6 +8,7 @@ dotenv.config();
 
 const FILES_DIR = "files";
 const OUTPUT_DIR = "ocr_output";
+const MARKDOWN_DIR = "markdown_extraction";
 
 async function processFiles() {
   // Check if files directory exists
@@ -16,9 +17,12 @@ async function processFiles() {
     process.exit(1);
   }
 
-  // Create output directory if it doesn't exist
+  // Create output directories if they don't exist
   if (!fs.existsSync(OUTPUT_DIR)) {
     fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  }
+  if (!fs.existsSync(MARKDOWN_DIR)) {
+    fs.mkdirSync(MARKDOWN_DIR, { recursive: true });
   }
 
   // Get all files in the directory
@@ -40,6 +44,7 @@ async function processFiles() {
   const credentials = {
     accessKeyId: process.env.BEDROCK_AWS_ACCESS_KEY_ID!,
     secretAccessKey: process.env.BEDROCK_AWS_SECRET_ACCESS_KEY!,
+    sessionToken: process.env.BEDROCK_AWS_SESSION_TOKEN,
     region: process.env.BEDROCK_AWS_REGION || 'eu-west-1'
   };
 
@@ -80,12 +85,34 @@ async function processFiles() {
       });
 
       const duration = Date.now() - startTime;
+      const durationSeconds = (duration / 1000).toFixed(2);
 
-      console.log(`✅ Completed: ${file} (${duration}ms)`);
+      console.log(`✅ Completed: ${file} (${durationSeconds}s)`);
       console.log(`   Pages: ${result.pages.length}`);
       console.log(`   Input tokens: ${result.inputTokens}`);
       console.log(`   Output tokens: ${result.outputTokens}`);
       console.log(`   Saved to: ${outputPath}`);
+
+      // Extract and save markdown content
+      const markdownFileName = `${path.parse(file).name}_ocr.md`;
+      const markdownPath = path.join(MARKDOWN_DIR, markdownFileName);
+
+      let markdownContent = `# OCR Results for ${file}\n\n`;
+      markdownContent += `**Processing Time:** ${durationSeconds} seconds\n`;
+      markdownContent += `**Pages:** ${result.pages.length}\n`;
+      markdownContent += `**Input Tokens:** ${result.inputTokens}\n`;
+      markdownContent += `**Output Tokens:** ${result.outputTokens}\n\n`;
+
+      markdownContent += `## Extracted Content\n\n`;
+
+      result.pages.forEach((page, index) => {
+        markdownContent += `### Page ${page.page}\n\n`;
+        markdownContent += `${page.content}\n\n`;
+        markdownContent += `---\n\n`;
+      });
+
+      fs.writeFileSync(markdownPath, markdownContent);
+      console.log(`   Markdown saved to: ${markdownPath}`);
       console.log();
 
       // Save result to file

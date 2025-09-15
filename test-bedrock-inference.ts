@@ -37,6 +37,7 @@ class BedrockTest {
       credentials: {
         accessKeyId: process.env.BEDROCK_AWS_ACCESS_KEY_ID!,
         secretAccessKey: process.env.BEDROCK_AWS_SECRET_ACCESS_KEY!,
+        sessionToken: process.env.BEDROCK_AWS_SESSION_TOKEN,
       }
     };
 
@@ -199,8 +200,9 @@ async function runTest() {
     console.log('\n🎉 Bedrock inference is working correctly!');
 
   } catch (error) {
-    console.error(`❌ Test failed: ${error.message}`);
-    console.error(`   Stack: ${error.stack?.split('\n')[1]?.trim() || 'No stack trace'}`);
+    const err = error as Error;
+    console.error(`❌ Test failed: ${err.message}`);
+    console.error(`   Stack: ${err.stack?.split('\n')[1]?.trim() || 'No stack trace'}`);
     process.exit(1);
   }
 }

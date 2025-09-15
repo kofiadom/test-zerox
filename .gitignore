@@ -1,1 +1,5 @@
 .env
+node_modules/
+eng.traineddata
+aws_credentials.json
+*.traineddata
