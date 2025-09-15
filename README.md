@@ -1,23 +1,73 @@
 # OCR Multiple Files Script
 
-This script uses Zerox to perform OCR (Optical Character Recognition) on multiple files in a directory using AWS Bedrock models.
+A comprehensive OCR (Optical Character Recognition) solution that processes multiple files using AWS Bedrock AI models and Zerox library. Extracts text from documents and saves results in both JSON and Markdown formats.
+
+## Features
+
+- 🚀 **Batch Processing**: Process multiple files simultaneously
+- 📄 **Multiple Formats**: Supports PDF, DOCX, DOC, PNG, JPG, JPEG, TIFF, BMP
+- 🤖 **AI-Powered**: Uses Anthropic Claude models via AWS Bedrock
+- 📊 **Dual Output**: Generates both JSON and formatted Markdown files
+- ⚡ **Performance**: Concurrent processing with configurable concurrency
+- 🔄 **Retry Logic**: Automatic retry on failures
+- 📈 **Progress Tracking**: Real-time processing status and timing
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
-- Ghostscript (for PDF processing)
-- AWS Bedrock access with appropriate permissions
+- **Node.js** (v18 or higher)
+- **Ghostscript** (for PDF processing)
+- **GraphicsMagick** (for image processing)
+- **LibreOffice** (for document conversion)
+- **AWS Bedrock** access with appropriate permissions
 
 ## Installation
 
-1. **Install Ghostscript** (required for PDF processing):
-   - Download from: https://www.ghostscript.com/download.html
-   - Install and ensure it's available in your system PATH
+### 1. Install System Dependencies
 
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
+**Ghostscript** (Required for PDF processing):
+```bash
+# Download from: https://www.ghostscript.com/download.html
+# Install and ensure it's in your system PATH
+```
+
+**GraphicsMagick** (Required for image processing):
+```bash
+# Download from: http://www.graphicsmagick.org/download.html
+# Install and ensure it's in your system PATH
+```
+
+**LibreOffice** (Required for document processing):
+```bash
+# Download from: https://www.libreoffice.org/download/download/
+# Install and ensure soffice command is in your system PATH
+```
+
+### 2. Install Node.js Dependencies
+```bash
+npm install
+```
+
+### 3. Environment Setup
+
+Create a `.env` file in the project root:
+
+```env
+# AWS Bedrock Configuration
+BEDROCK_AWS_ACCESS_KEY_ID=your_access_key_here
+BEDROCK_AWS_SECRET_ACCESS_KEY=your_secret_key_here
+BEDROCK_AWS_SESSION_TOKEN=your_session_token_here
+BEDROCK_AWS_REGION=us-east-1
+BEDROCK_MODEL=anthropic.claude-3-5-sonnet-20240620-v1:0
+
+# Optional: S3 Configuration (for test_s3_fetch.ts)
+AWS_ACCESS_KEY_ID=your_s3_access_key
+AWS_SECRET_ACCESS_KEY=your_s3_secret_key
+AWS_REGION=eu-central-1
+S3_BUCKET=your_bucket_name
+```
+
+> ⚠️ **Security Warning**: Never commit your `.env` file to version control!
+> Create a `.env.example` file as a template for others.
 
 ## Environment Setup
 
@@ -32,23 +82,57 @@ BEDROCK_MODEL=anthropic.claude-3-5-sonnet-20241022-v2:0
 
 ## Usage
 
-1. **Prepare your files**:
-   - Create a `files` directory in the project root
-   - Add files to process (supported: PDF, DOCX, DOC, PNG, JPG, JPEG, TIFF, BMP)
+### Main OCR Script
 
-2. **Run the script**:
+1. **Prepare your files**:
+   ```bash
+   # Create files directory
+   mkdir files
+
+   # Add your files to process
+   # Supported formats: PDF, DOCX, DOC, PNG, JPG, JPEG, TIFF, BMP
+   ```
+
+2. **Run the OCR script**:
    ```bash
    npx ts-node ocr-multiple-files.ts
    ```
 
+### Test Bedrock Connection
+
+Before processing large batches, test your Bedrock connection:
+```bash
+npx ts-node test-bedrock-inference.ts
+```
+
+### S3 File Fetching (Optional)
+
+If you have files in S3, use the fetch script:
+```bash
+npx ts-node test_s3_fetch.ts
+```
+
 ## Output
 
-- Results are saved in the `ocr_output` directory as JSON files
-- Each file gets its own output file (e.g., `document.pdf` → `document_ocr.json`)
-- Output includes:
-  - Extracted text content per page
-  - Processing time and token usage
-  - Success/failure status
+The script generates two types of output files:
+
+### JSON Output (`ocr_output/` directory)
+- Detailed JSON results with metadata
+- Token usage and processing statistics
+- Page-by-page extraction results
+- Example: `document.pdf` → `document_ocr.json`
+
+### Markdown Output (`markdown_extraction/` directory)
+- Human-readable formatted markdown files
+- Processing summary and metadata
+- Content organized by page
+- Example: `document.pdf` → `document_ocr.md`
+
+### Output Features
+- **Processing Time**: Displayed in seconds (e.g., "11.07s")
+- **Token Tracking**: Input/output token counts
+- **Page Organization**: Content separated by page
+- **Error Handling**: Detailed error reporting for failed files
 
 ## Supported Models
 
