@@ -1,80 +1,18 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for south_korean_file_24.pdf
 
-File
-====
-:Name: south_korean_file_24.pdf
-:Alias:
-:Page Count: 1
-:MIME Type: application/pdf
+**Processing Time:** 8.70 seconds
+**Processed on:** 2025-09-18T13:48:50.326Z
 
-Fields
-======
-:supplier_name: 택시
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date: 2018-05-25
-:total_amount: 10700.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: receipt
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+택시 >
+날짜 25.05.18
+운행 시간 12:20 - 12:33
+호출 일반
+출발 곤지암역 택시승강장
+도착 화담숲
+금액 10,700원
+기사님께 전화
+평가하기
+이중결제 문의
+X

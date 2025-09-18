@@ -1,81 +1,39 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for taiwan_file_12.jpg
 
-File
-====
-:Name: taiwan_file_12.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 17.28 seconds
+**Processed on:** 2025-09-18T13:50:58.914Z
 
-Fields
-======
-:supplier_name: 北京方恒集团有限公司方恒酒店管理分公司
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number: 010120250524092912009025658Y
-:date: 2025-05-24
-:total_amount: 58.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: receipt
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-  * CENTERM-K9-V2.0.38
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+◎交通銀行
+BANK OF COMMUNICATIONS
+商户名称(MERCHANT NAME):
+北京方恒集团有限公司方恒酒店管理
+分公司
+商户编号(MERCHANT NO):
+301110070110866
+终端编号(TERMINAL NO):00000021
+操作员号(OPERATOR NO):01
+交易类型(TRANS TYPE):
+扫码支付-消费(SALE)
+交易渠道(TRANS CHANNEL):
+微信
+批次号(BATCH NO):000016
+凭证号(VOUCHER NO):005209
+票据号(CHECK NO):002604
+日期/时间(DATE/TIME):
+2025/05/24 09:29:16
+交易流水号:20250524092910301110
+07011086600000021005209
+联机交易流水号:2025052409291201
+0110015658Y
+订单号:
+010120250524092912009025658Y
+
+-একট
+ask
+21
+交易金额(AMOUNT) :
+RMB 58.00
+备注(REFERENCE) :
+CENTERM-K9-V2.0.38 付款人存根

@@ -1,136 +1,70 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for south_korean_file_6.pdf
 
-File
-====
-:Name: south_korean_file_6.pdf
-:Alias:
-:Page Count: 1
-:MIME Type: application/pdf
+**Processing Time:** 14.27 seconds
+**Processed on:** 2025-09-18T13:49:38.985Z
 
-Fields
-======
-:supplier_name: SK 텔레콤 주식회사
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date: 2025-05-16
-:total_amount: 117450.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-  * :description: 월정액(휴대폰)
-    :quantity: 109000.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: 선택약정할인
-    :quantity: -27280.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: T올케어+5 파손*
-    :quantity: 4140.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: T올케어+5 플러스서비스
-    :quantity: 1760.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: 기기분할상환금*
-    :quantity: 25500.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: 기기분할상환금수수료*
-    :quantity: 4330.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: 지원금 미선택 고객에게 약정기간 동안 가입 요금제에 따른 요금할인 제공
-    :quantity: -27280.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-:document_type: invoice
-:locale:
-  :language: ko
-  :country: KR
-  :currency: KRW
-:customer_name: 김배성
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+가 해제됩니다.
+가려진 정보보기 해제 안내 - 본인인증 성공 시 * 또는
+(본인명의전화번호, 카드번호, 주소 등 일부 정보는 본인인증 후에도 가려져 보일 수 있습니다.)
+가려진 정보 본인인증
+김배성
+010-34**-65**
+IPHONE 16 PRO
+
+언제나 함께 해주셔서 감사합니다. 항상 최선을 다하겠습니다.
+
+5월 이용요금
+2025.04.01 ~ 2025.04.30
+117,450원
+사용상품
+납부정보
+납부방법
+청구서
+010-34**-65**
+국민카드/****************
+카드자동납부
+문자 요금안내서
+
+이동전화/SKT요금을 확인하세요
+
+통신서비스요금
+81,720원
+월정액
+월정액(휴대폰)
+109,000원
+통신요금할인
+선택약정할인
+-27,280원
+부가서비스요금
+5,900원
+부가서비스이용료
+T올케어+5 파손*
+4,140원
+T올케어+5 플러스서비스
+1,760원
+기기구입비
+29,830원
+기기분할상환금
+기기분할상환금*
+기기분할상환금수수료*
+25,500원
+4,330원
+
+요금할인 내역을 확인하세요
+
+할인요금
+-27,280 원
+선택약정할인
+지원금 미선택 고객에게 약정기간 동안 가입 요금제에 따른 요금할인 제공
+-27,280 원
+
+* 표시 항목은 부가가치세 제외 대상입니다.
+
+Wavve 기본월정액 이용안내
+고객님이 사용하시는 요금제에 따라 Wavve 기본월정액 무료혜택을 받고 있으신 경우 이용 상세내역에 할인 항목으로 별도 표기되지
+않습니다.
+
+2025년 05월 16일
+SK 텔레콤 주식회사 사장

@@ -1,101 +1,30 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for taiwan_file_8.jpg
 
-File
-====
-:Name: taiwan_file_8.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 19.03 seconds
+**Processed on:** 2025-09-18T13:54:42.341Z
 
-Fields
-======
-:supplier_name: kmグループ 東京太陽株式会社
-:supplier_phone_number: 03-5670-6778
-:customer_company_registration:
-:supplier_company_registration:
-  * :number: T2011801013963
-    :type: TAX_ID
-:invoice_number:
-:date: 2025-05-19
-:total_amount: 1600.0
-:total_net: 1455.0
-:total_tax: 145.0
-:taxes:
-  * :rate: 0.1
-    :base: 1455.0
-    :amount: 145.0
-:line_items:
-  * :description: 基本運賃
-    :quantity: 1.0
-    :unit_price: 1100.0
-    :total_price: 1100.0
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: 迎車料金
-    :quantity: 1.0
-    :unit_price: 500.0
-    :total_price: 500.0
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-:document_type: receipt
-:locale:
-  :language: ja
-  :country: JP
-  :currency: JPY
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address: 東京都葛飾区四つ木5-5-18
-  :street_number: 5-5-18
-  :street_name: 四つ木
-  :po_box:
-  :address_complement:
-  :city: 葛飾区
-  :postal_code:
-  :state: 東京都
-  :country: JP
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+19.5 MONETISIN
+
+領収 書
+日付 2025年05月19日
+車番 7321
+基本運賃 ¥1100-
+迎車料金 ¥500-
+合計 ¥1600-
+(内消費税等 ¥145-)
+・内訳
+現金支払 ¥1600-
+
+登録番号 : T2011801013963
+kmグループ 東京太陽株式会社
+東京都葛飾区四つ木5-5-18
+忘れ物、領収書問合せ 03-5670-6778
+お客さま相談室 0120-717-039
+km呼ぶなら
+「S. RIDE」
+ダウンロード用QRコード
+<ナビコード>
+A45-5344-0370
+(営業回数8195)

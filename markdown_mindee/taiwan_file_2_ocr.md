@@ -1,83 +1,44 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for taiwan_file_2.jpg
 
-File
-====
-:Name: taiwan_file_2.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 16.96 seconds
+**Processed on:** 2025-09-18T13:53:22.234Z
 
-Fields
-======
-:supplier_name: 桃園國際機場
-:supplier_phone_number: 0910285625
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number: 010521
-:date: 2025-05-24
-:total_amount: 1390.0
-:total_net: 1360.0
-:total_tax: 30.0
-:taxes:
-  * :rate: 1.2
-    :base: 44.5
-    :amount: 30.0
-:line_items:
-:document_type: receipt
-:locale:
-  :language: zh
-  :country: TW
-  :currency: TWD
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+計程車乘車證明
+桃園國際機場:083
+駕駛姓名:賴弘翊
+行動電話:0910285625
+申訴電話:03-383-4499
+序號(No.):010521
+車號(Plate):TDX5229
+上車(Start):
+2025/05/24 18:54:30
+下車(End):
+2025/05/24 19:30:16
+車資(Total,$):1390
+申訴電話(Service#):
+03-3341999
+費率版本(Fare Ver.):
+桃機場108-12
+里程(Dist.,km):44.5
+停等時間(Wait,h:m:s)
+00:03:01
+跳表金額(Fare,$):
+1360
+國道高速公路
+(Freeway)
+通行費費率
+(Rate,$/km):1.2
+計費門架版本
+(Ver.): 104.09.04
+進入交流道(In):
+機場系統
+離開交流道(Out):
+圓山
+通行費(Toll,$):30
+計費表廠牌
+(Meter):招財
+計費表器號
+(Meter S/N): 06820
+..

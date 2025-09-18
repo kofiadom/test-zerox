@@ -1,89 +1,23 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for file_1.jpg
 
-File
-====
-:Name: file_1.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 12.30 seconds
+**Processed on:** 2025-09-18T13:47:31.611Z
 
-Fields
-======
-:supplier_name: MARKS&SPENCER
-:supplier_phone_number: 010-65871226
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number: 2593 1923 106
-:date: 2015-12-24
-:total_amount: 10.0
-:total_net: 10.0
-:total_tax: 0.0
-:taxes:
-:line_items:
-  * :description: DDD CHOC
-    :quantity: 1.0
-    :unit_price: 10.0
-    :total_price: 10.0
-    :product_code: 00917407
-    :tax_amount: 0.0
-    :tax_rate: 0.0
-    :unit_measure:
-:document_type: receipt
-:locale:
-  :language: zh
-  :country: CN
-  :currency: CNY
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address: 马莎北京世贸天阶店
+---
+
+MARKS&
+SPENCER
+马莎北京世贸天阶店
 北京市朝阳区世贸天阶南阶L137
-  :street_number:
-  :street_name: 世贸天阶南阶
-  :po_box:
-  :address_complement:
-  :city: 北京市
-  :postal_code:
-  :state:
-  :country: CN
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website: www.marksandspencer.cn
-:supplier_email:
-:customer_id:
+电话:010-65871226
+传真:010-65871225
+859 交易1类 2593 1923 106
+00917407 DDD CHOC 1 10.00
+总数量 1
+总额 10.00
+现金 10.00
+M&S官网和马莎天猫官方旗舰店
+正式全新震撼呈现
+详情请登录www.marksandspencer.cn
+Refund before 29/JAN/2016
+24/12/15 16:16

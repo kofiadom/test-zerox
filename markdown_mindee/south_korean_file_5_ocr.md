@@ -1,87 +1,41 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for south_korean_file_5.pdf
 
-File
-====
-:Name: south_korean_file_5.pdf
-:Alias:
-:Page Count: 1
-:MIME Type: application/pdf
+**Processing Time:** 10.76 seconds
+**Processed on:** 2025-09-18T13:49:24.713Z
 
-Fields
-======
-:supplier_name: 스타벅스 코리아
-:supplier_phone_number: 02-1522-3232
-:customer_company_registration:
-:supplier_company_registration:
-  * :number: 2018121515
-    :type: TAX_ID
-:invoice_number:
-:date: 2025-05-12
-:total_amount: 30000.0
-:total_net: 27273.0
-:total_tax: 2727.0
-:taxes:
-  * :rate: 0.1
-    :base: 27273.0
-    :amount: 2727.0
-:line_items:
-:document_type: receipt
-:locale:
-  :language: ko
-  :country: KR
-  :currency: KRW
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address: 서울 중구 퇴계로 100 (회현동2가, 스테이트
+---
+
+카드매출전표(전자영수증)
+스타벅스 코리아
+MASTER 겸용
+2025.05.12 20:52:07 / 일시
+30,000원
+공급가액
+27,273원
+부가세
+2,727원
+봉사료
+0원
+전화번호
+02-1522-3232
+주소
+서울 중구 퇴계로 100 (회현동2가, 스테이트
 타워남산)
-  :street_number: 100
-  :street_name: 퇴계로
-  :po_box:
-  :address_complement: 회현동2가, 스테이트
-타워남산
-  :city: 서울 중구
-  :postal_code:
-  :state:
-  :country: KR
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+가맹점번호
+760650227
+사업자 등록번호
+2018121515
+대표자명
+손정현
+업종
+상품권
+승인번호
+54780250
+카드번호
+5521-20**-****-5393
+본 매출표는 신용카드 이용에 따른 증빙용으로 비씨카드사에서 발급한 것
+임을 확인합니다.
+●비씨카드주식회사
+본 매출내역은 증빙용입니다.
+원본 매출표에 대한 사본이 필요하신 경우 BC카드 고객상담센터(1588-4000)
+로 문의하여 주시기 바랍니다.

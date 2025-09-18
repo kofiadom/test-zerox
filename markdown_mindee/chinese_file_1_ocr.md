@@ -1,80 +1,33 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for chinese_file_1.jpeg
 
-File
-====
-:Name: chinese_file_1.jpeg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 20.56 seconds
+**Processed on:** 2025-09-18T13:45:29.124Z
 
-Fields
-======
-:supplier_name: 上海星共国际旅行社专营店
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date:
-:total_amount: 256.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: other_financial
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name: 万旭涛
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+12:38
+< 订单详情
+上海星共国际旅行社专营店 >
+②一步旅行
+印尼签证·全国受理
+30天停留 旅游签材料简化
+印度尼西亚·旅游签证·全国 ¥450.00
+送签·印尼电子签证个人旅...
+30天停留 【普通3工出】+拒签不退 x1
+50
+5
+逛猪
+售后退款
+退改政策 已办理,不可全额退 详情>
+实付金额 ¥256.00 明细>
+
+办签信息
+姓名 万旭涛 17726298936
+
+商家邮寄地址
+地址 签证组,17621095007,上海上海市闵行复制
+区田林路1036号16号楼102
+请将办签材料寄往该地址
+买家收货地址
+地址 不需要收货地址 不需要收货人
+联系飞猪 联系卖家

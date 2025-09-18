@@ -1,80 +1,31 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for south_korean_file_15.pdf
 
-File
-====
-:Name: south_korean_file_15.pdf
-:Alias:
-:Page Count: 1
-:MIME Type: application/pdf
+**Processing Time:** 10.29 seconds
+**Processed on:** 2025-09-18T13:48:41.627Z
 
-Fields
-======
-:supplier_name: NEXT
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date: 2025-05-13
-:total_amount: 15800.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: other_financial
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name: 서수빈
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+Completed
+Tue, May 13, 2025
+NEXT
+서수빈's ride
+21:26
+서울 중구 을지로7가 2-12 서울메트로 동대문 별관
+21:44
+서울 서대문구 현저동 200 독립문극동아파트 112동
+Driver 심장섭
+서울38아3057
+My rating Satisfied
+Prime Driver Charter
+Rating 90% 1000+ trips
+Deluxe License
+Mark as My Driver
+Lost and found
+Fare details
+Fare
+₩15,800
+* Surge pricing 1.32x
+Total fare
+₩15,800
+Payment method
+현대 **5411 Personal

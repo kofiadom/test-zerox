@@ -1,112 +1,63 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for taiwan_file_10.jpg
 
-File
-====
-:Name: taiwan_file_10.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 23.27 seconds
+**Processed on:** 2025-09-18T13:50:21.409Z
 
-Fields
-======
-:supplier_name: STARBUCKS
-:supplier_phone_number: 03-5564-2010
-:customer_company_registration:
-:supplier_company_registration:
-  * :number: 17011001031943
-    :type: CRN
-:invoice_number:
-:date: 2020-05-20
-:total_amount: 4083.0
-:total_net: 3728.0
-:total_tax: 155.0
-:taxes:
-  * :rate: 0.1
-    :base: 2864.0
-    :amount: 86.0
-  * :rate: 0.08
-    :base: 864.0
-    :amount: 69.0
-:line_items:
-  * :description: アイス コーヒー
-    :quantity: 1.0
-    :unit_price: 400.0
-    :total_price: 400.0
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: アイス スターバックス ラテ
-    :quantity: 1.0
-    :unit_price: 464.0
-    :total_price: 464.0
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: ステンレスマグマットブラック355ml
-    :quantity: 1.0
-    :unit_price: 2864.0
-    :total_price: 2864.0
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-:document_type: receipt
-:locale:
-  :language: ja
-  :country: JP
-  :currency: JPY
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address: アクアシティお台場店
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website: http://sbux.jp/rewards
-:supplier_email:
-:customer_id:
+---
+
+クレジット利用明細(お客様控)
+STARBUCKS®
+アクアシティお台場店
+#961 TEL 03-5564-2010
+1T アイス コーヒー
+1T アイス スターバックス ラテ
+1 ステンレスマグマットブラック355ml
+400軽
+464軽
+2,864
+本体合計(3点)
+3,728
+(10%対象
+2,864
+消費税
+86)
+(8%対象
+864
+消費税
+69)
+総合計
+4 083
+三井住友(V/M)
+4,083
+お釣り
+0
+カード会社 三井住友(V/M)
+会員番号 415442XXXXXX5666
+有効期限 XX年XX月
+支払方法 一括払い
+承認番号 503256
+処理通番 43491
+伝票番号 05361
+AID A0000000031010
+Application Label Visa Debit
+100
+「軽」印は軽減税率(8%)適用商品
+To Go
+010115530001 387948 2025/05/20 11:40:39
+スターバックスコーヒージャパン株式会社
+登録番号 17011001031943
+発行日:05/20
+一般
+One More Coffee ご案内
+ドリップコーヒー(カフェミストを含む) ご購入時のレシートを当日営業終了
+までに持参すると2杯目のドリップコーヒーを186円/190円(持ち帰り価格/
+店内価格)またはカフェミストを240円/245円(持ち帰り価格/店内価格)で
+お楽しみいただけます。※同一サイズでのご提供※ホット/アイス選択可
+※他店可 ※一部店舗除く※切り離し無効 ※価格は全て税込価格
+Web登録済みのスターバックス カードでご購入の場合は、ドリップコーヒー
+128円/130円(持ち帰り価格/店内価格)またはカフェ ミストを182円/185円
+(持ち帰りり価格/店内価格)でご利用いただけます。
+スターバックス カードのWeb登録はこちらから
+STARBUCKS®
+REWARDS
+http://sbux.jp/rewards

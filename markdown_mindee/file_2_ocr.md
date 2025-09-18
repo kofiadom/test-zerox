@@ -1,89 +1,24 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for file_2.jpg
 
-File
-====
-:Name: file_2.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 12.38 seconds
+**Processed on:** 2025-09-18T13:47:43.993Z
 
-Fields
-======
-:supplier_name: 摩码大药房
-:supplier_phone_number: 4008699591
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number: 812228102
-:date: 2015-12-22
-:total_amount: 30.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-  * :description: 3M 9001V自吸过滤式防颗粒物口罩耳
+---
+
+摩码大药房销售小票
+日期:2015-12-22
+时间:13:18:10
+客户:崔绮雯
+编号:812228102
+3M 9001V自吸过滤式防颗粒物口罩耳
 带式 1只装
-    :quantity: 5.0
-    :unit_price: 8.0
-    :total_price: 40.0
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-:document_type: receipt
-:locale:
-  :language: zh
-  :country: CN
-  :currency: CNY
-:customer_name: 崔绮雯
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address: 金台北街5号楼
-  :street_number: 5
-  :street_name: 金台北街
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+数量:5*8.0 金额:40.0
+3M中国有限公司。
+批号:15391SH 效期:2019-12-01
+货架号:FA02004
+合计:30.0
+摩码大药房:4008699591
+地址:金台北街5号楼
+药品为特殊商品,售出概不退换
+建外SOHO A座2603 建外SOHO A座260
+3

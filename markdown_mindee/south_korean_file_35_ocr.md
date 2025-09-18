@@ -1,80 +1,67 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for south_korean_file_35.pdf
 
-File
-====
-:Name: south_korean_file_35.pdf
-:Alias:
-:Page Count: 1
-:MIME Type: application/pdf
+**Processing Time:** 11.20 seconds
+**Processed on:** 2025-09-18T13:49:13.955Z
 
-Fields
-======
-:supplier_name: 유풍상운(주)
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date: 2019-05-25
-:total_amount: 10000.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: other_financial
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date: 2019-05-25
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+택시 이용 상세
+25.05.19
+
+운행 정보
+출발
+도착
+운행 시간
+호출 옵션
+모을
+빈브라더스 커피하우스 서울
+19:53 - 20:04
+블루파트너스
+
+택시 정보
+상호
+차량 번호
+기사명
+제휴 브랜드
+유풍상운(주)
+서울 33 자 4379 | 쏘나타
+안창현
+블루
+
+요금 정보
+운행 요금
+결제 금액
+결제 수단
+결제 일시
+7,000원
+7,000원
+카카오페이
+네이버 현대카드 4045
+25.05.19 20:04
+거래확인증
+
+부가서비스 요금 정보
+블루파트너스 이용료
+결제 금액
+결제 수단
+결제 일시
+3,000원
+3,000원
+카카오페이
+네이버 현대카드 4045
+25.05.19 20:04
+거래확인증
+
+공유하기
+저장하기
+• 실제 요금과 다를 수 있습니다.
+• 부가가치세법 상 적격 증빙이 필요한 경우 카드사에서 발
+급하는 카드전표를 이용하여 주시기 바랍니다.
+• 가족계정 대표는 구성원 이용기록의 요금정보만 확인이 가
+능합니다.
+
+고객 지원
+기사님께 전화
+이중결제 문의
+서비스 문의
+자주 묻는 질문

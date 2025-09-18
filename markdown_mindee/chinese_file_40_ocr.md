@@ -1,80 +1,37 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for chinese_file_40.png
 
-File
-====
-:Name: chinese_file_40.png
-:Alias:
-:Page Count: 1
-:MIME Type: image/png
+**Processing Time:** 10.41 seconds
+**Processed on:** 2025-09-18T13:46:20.762Z
 
-Fields
-======
-:supplier_name:
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date: 2024-11-15
-:total_amount: 765.05
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: statement
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+```text
+<
+1:57
+交易时间
+明细详情
+-765.05
+余额:-491.69
+记账日期
+交易卡号
+业务摘要
+交易国家或地区简称
+交易场所
+交易金额
+记账金额
+记账币种
+交易卡余额
+查询完整交易卡号或账户
+42
+山
+2024-11-15
+2024-11-17 22:38:09
+4505****8686
+境外消费
+THA
+HYATT PLACE BANGKOK
+765.05
+22.02
+美元
+-491.69
+```

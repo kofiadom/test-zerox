@@ -1,108 +1,211 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for south_korean_file_1.pdf
 
-File
-====
-:Name: south_korean_file_1.pdf
-:Alias:
-:Page Count: 2
-:MIME Type: application/pdf
+**Processing Time:** 21.95 seconds
+**Processed on:** 2025-09-18T13:48:20.231Z
 
-Fields
-======
-:supplier_name: kt
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number: 92036108889
-:date: 2025-05-07
-:total_amount: 24750.0
-:total_net:
-:total_tax:
-:taxes:
-  * :rate: 0.1
-    :base: 62000.0
-    :amount: 6200.0
-:line_items:
-  * :description: 인터넷
-    :quantity: 1.0
-    :unit_price: 42000.0
-    :total_price: 20000.0
-    :product_code:
-    :tax_amount: 0.0
-    :tax_rate: 0.0
-    :unit_measure:
-  * :description: 홈Iot
-    :quantity: 1.0
-    :unit_price: 8000.0
-    :total_price: 1000.0
-    :product_code:
-    :tax_amount: 0.0
-    :tax_rate: 0.0
-    :unit_measure:
-  * :description: 부가세
-    :quantity: 1.0
-    :unit_price: 8000.0
-    :total_price: 1500.0
-    :product_code:
-    :tax_amount: 0.0
-    :tax_rate: 0.0
-    :unit_measure:
-:document_type: invoice
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name: 정병철
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date: 2025-06-02
-:po_number:
-:reference_numbers:
-  * 92036108889
-:payment_date:
-:supplier_payment_details:
-:supplier_website: kt.com
-:supplier_email:
-:customer_id: z68163541
+---
+
+홈페이지
+kt.com
+요금구성표
+KT 멤버십
+통신요금
+24,750 원
+고객등급
+WIP
+※ 고객등급은 명의기준 합산으로 산정됩니다.
+부가이용요금
+0원
+5월 총납부금액
+24,750 원
+통신기기비
+0원
+미납요금
+0원
+※ 요금구분은 다음 페이지 '최근 4개월 요금내역'의 설명을 참조해 주시기 바랍니다.
+고객정보
+kt
+정병철 고객님
+5월 납부하실 금액은
+24,750 원 입니다.
+납기일 : 6월 2일
+명세서번호는 92036108889 입니다.
+고객정보 확인/변경하기
+대표서비스번호 z68163541***
+이용기간
+4월 1일~4월 30일
+고객명
+정병철 님
+고객주소
+총이용번호수 2대
+납기일
+2025년 6월 2일
+대표상품명
+인터넷 베이직
+경기 고양시 일산서구 주엽로 161802동 801호 (주엽동, 문촌마을8단지아파트)
+요금조회/납부하기
+2025년 5월 명세서
+2025년 4월 영수증
+금액
+24,750 원
+금액
+24,750원
+대표서비스번호
+z68163541***
+대표서비스번호
+고객명
+대표상품명
+정병철
+인터넷 베이직
+z68163541***
+명세서번호
+92036108889
+고객명
+정병철
+은행(카드)명
+비씨카드
+명세서번호
+92036108889
+이용기간
+4월 1일~4월 30일
+5월 요금
+24,750 원
+미납요금
+0원
+납기일
+예금(카드)주명
+정병철
+계좌(카드)번호
+513708*********4
+납부내역
+인출일자
+영수금액
+2025.4.14
+24,750 원
+카드승인예정일
+은행(카드)명
+예금(카드)주명
+계좌(카드)번호
+명세서 작성일자
+공급자 등록번호
+공급받는자 등록번호
+세금계산서 공급가액
+부가가치세
+부가가치세 제외요금
+계산서 공급가액
+2025년 6월 2일
+5/12~13, 19~20, 26~27
+비씨카드
+정병철
+513708*********4
+2025년 5월 7일
+102-81-42945
+**********
+**********
+*****
+**********
+※ 예금계좌(신용카드)는 4월 청구시점에 등록된 정보입니다.
+※ 자동이체로 납부하신 고객에게만 제공되는 영수증입니다.
+10원미만할인요금
+0원
+요금납부방법 안내
+01 고객님의 전용 입금계좌
+예금주 : 정병철(KT)
+케이뱅크 700053-19-500624
+농협은행 790230-44-086251
+신한은행 562164-33-014253
+※ 말일까지 납부하시지 않을 경우 2%의 가산금이 부과됩니다.
+전용 입금계좌는 실시간 수납되며, 초과 입금은 처리되지 않습니다.
+해당 계좌 외에 다른 은행 전용 계좌 발급 및 납부 가능합니다.
+02 요금 납부용 QR코드
+전국 편의점
+카카오페이 QR 스캔 납부
+(주)케이티
+수납인
+(주)케이티 (주)케이티
+
+
+이용내역
+상품명
+인터넷
+요금항목
+기본료
+서비스이용료(홈)
+(패키지용)와이파이_GiGA WiFi home
+이용료
+장비임대료
+장비임대료
+인터넷 베이직 이용한 요금입니다.
+할인 전(1)
+할인(2) 납부금액(1+2)
+42,000 원
+-22,000 원
+20,000 원
+8,000 원
+-7,000 원
+1,000 원
+인터넷 통신서비스 단말장치 월정액 임대료입니다.
+4,000 원
+-4,000 원
+0원
+소계
+54,000 원
+-33,000 원
+21,000 원
+홈lot
+장비이용료
+GiGA WiFi Buddy ax 이용료
+8,000원
+-6,500 원
+1,500 원
+소계
+8,000 원
+-6,500 원
+1,500 원
+부가가치세
+국가가 부과하는 금액입니다. (청구금액의 10%)
+6,200 원
+-3,950 원
+2,250 원
+당월요금계
+68,200 원
+-43,450 원
+24,750 원
+요금계
+68,200 원
+-43,450 원
+24,750 원
+※ 위의 요금항목 중 (*)표시 항목은 부가가치세(10%) 비과세, (#)표시는 통신기기비. (·)표시는 부가이용요금 입니다.
+※ 내게 맞는 요금제 찾기(스마트 초이스, www.smartchoice.or.kr)
+할인내역
+상품명
+요금항목
+할인금액
+인터넷
+계약기간할인(3년)
+-19,000원
+서비스 3년 약정하여 할인받은 금액입니다. (중도해지 시 할인반환금 청구됨)
+결합할인(홈, 총액 결합할인)
+-5,000원 총액결합 상품가입으로 할인받은 금액입니다.
+결합할인(홈,TV/모바일)
+-3,000 원 구
+▶홈결합상품 가입(TV/모바일 결합)으로 추가 할인받은 금액입니다. (중도해지시 할인반환금 청
+결합할인(홈,3년)
+-2,000 원 홈 결합상품 가입으로 할인받은 금액입니다. (중도해지 시 할인반환금 청구됨)
+계약기간할인(3년, 장비, 모뎀)
+-4,000원
+서비스 3년 약정으로 모뎀 임대료를 할인받은 금액입니다. (중도해지 시 할인반환금 청구됨)
+소계
+-33,000 원
+홈lot
+계약기간할인(GiGA WiFi Buddy ax
+3년, 6500원)
+-6,500원 서비스 3년 약정하여 할인받은 금액입니다. (중도해지시 할인반환금 청구됨)
+소계
+-6,500 원
+부가가치세
+-3,950 원
+할인계
+-43,450 원
+※ 할인내역 표기 순서는 상단 이용내역의 요금항목별 할인 순서와 동일합니다.
+(단, 동일 요금항목 내 다수의 할인항목이 있을 경우, 금액기준 내림차순 정렬입니다.)

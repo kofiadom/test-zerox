@@ -1,80 +1,37 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for chinese_file_39.png
 
-File
-====
-:Name: chinese_file_39.png
-:Alias:
-:Page Count: 1
-:MIME Type: image/png
+**Processing Time:** 10.73 seconds
+**Processed on:** 2025-09-18T13:45:59.698Z
 
-Fields
-======
-:supplier_name:
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date: 2024-11-15
-:total_amount: 60.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: other_financial
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+```text
+1:55
+<
+交易时间
+明细详情
+-60.00
+余额:-373.80
+43
+山
+2024-11-15
+记账日期
+交易卡号
+2024-11-16 22:38:34
+4505****8686
+业务摘要
+境外消费
+交易国家或地区简称
+THA
+交易场所
+Bolt
+交易金额
+记账金额
+60.00
+1.73
+记账币种
+美元
+交易卡余额
+-373.80
+查询完整交易卡号或账户
+```

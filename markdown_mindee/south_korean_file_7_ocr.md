@@ -1,82 +1,41 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for south_korean_file_7.pdf
 
-File
-====
-:Name: south_korean_file_7.pdf
-:Alias:
-:Page Count: 1
-:MIME Type: application/pdf
+**Processing Time:** 10.62 seconds
+**Processed on:** 2025-09-18T13:49:49.607Z
 
-Fields
-======
-:supplier_name: G마켓
-:supplier_phone_number: 02-1566-5701
-:customer_company_registration:
-:supplier_company_registration:
-  * :number: 2208183676
-    :type: TAX_ID
-:invoice_number: 00299886
-:date: 2025-05-11
-:total_amount: 33930.0
-:total_net: 33930.0
-:total_tax: 0.0
-:taxes:
-:line_items:
-:document_type: receipt
-:locale:
-  :language: ko
-  :country: KR
-  :currency: KRW
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address: 서울 강남구 테헤란로 152, 34-37층 (역삼 동, 강남파이낸스센터)
-  :street_number: 152
-  :street_name: 테헤란로
-  :po_box:
-  :address_complement: 34-37층 (역삼 동, 강남파이낸스센터)
-  :city: 강남구
-  :postal_code:
-  :state:
-  :country: KR
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website: www.hyundaicard.com
-:supplier_email:
-:customer_id:
+---
+
+카드매출전표 인터넷 재발급용(CARD SALES SLIP)
+
+카드번호 (4***-****-****-840*)
+
+승인번호
+00299886
+거래일자
+25. 5. 11 · 11:18:43
+결제방법
+일시불
+가맹점명
+G마켓
+가맹점번호
+103420763
+대표자명
+정형권
+사업자등록번호
+2208183676
+전화번호(TEL)
+02-1566-5701
+주소(ADDRESS)
+서울 강남구 테헤란로 152, 34-37층 (역삼
+동, 강남파이낸스센터)
+금액
+33,930 원
+부가세
+0원
+봉사료
+0원
+합계
+33,930 원(승인)
+
+고객센터(1577-6000) www.hyundaicard.com
+본 매출전표는 매출내역 확인용으로 다른 용도로는 사용할 수 없으며 실제전표가 아닙니다.

@@ -1,102 +1,56 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for taiwan_file_7.jpg
 
-File
-====
-:Name: taiwan_file_7.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 22.64 seconds
+**Processed on:** 2025-09-18T13:54:23.308Z
 
-Fields
-======
-:supplier_name: LAWSON
-:supplier_phone_number: 03-3211-3963
-:customer_company_registration:
-:supplier_company_registration:
-  * :number: T8010001137238
-    :type: TAX_ID
-:invoice_number:
-:date: 2025-05-19
-:total_amount: 624.0
-:total_net: 578.0
-:total_tax: 46.0
-:taxes:
-  * :rate: 0.08
-    :base: 578.0
-    :amount: 46.0
-:line_items:
-  * :description: ネスレ キットカットバー 1ホン
-    :quantity: 151.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-  * :description: サーモンホグシトリチリソースナマハルマキ
-    :quantity: 473.0
-    :unit_price:
-    :total_price:
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-:document_type: receipt
-:locale:
-  :language: ja
-  :country: JP
-  :currency: JPY
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address: 丸の内仲通りビル店
+---
+
+19.53
+LAWSON
+丸の内仲通りビル店
+登録番号:T8010001137238
 東京都千代田区丸の内2-2-3
-  :street_number: 2-2-3
-  :street_name: 丸の内
-  :po_box:
-  :address_complement:
-  :city: 千代田区
-  :postal_code:
-  :state:
-  :country: JP
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date: 2025-05-19
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+電話:03-3211-3963 店コード:130292
+2025年5月19日(月) 15:48
+202
+レジ: #2 19148
+責:高松
+クレジット売上票
+[お客様控え]
+ネスレ キットカットバー 1ホン
+151軽
+サーモンホグシトリチリソースナマハルマキ
+473軽
+点
+合
+計
+(内消費税等
+(8%対象
+(内消費税額
+数
+¥624
+¥46)
+¥624)
+¥46)
+2個
+軽印は軽減税率対象商品です。
+買上金額
+¥624
+クレジット取扱合計
+¥624
+CL VISA
+有効期限****/**
+会員No
+****-****-****-5666
+お取扱日
+2025年5月19日
+支払方法
+承認番号
+処理通番
+AID
+APL
+一回
+0059079
+74814
+A0000000031010
+Visa Debit

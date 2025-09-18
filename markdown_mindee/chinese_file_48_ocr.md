@@ -1,80 +1,38 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for chinese_file_48.png
 
-File
-====
-:Name: chinese_file_48.png
-:Alias:
-:Page Count: 1
-:MIME Type: image/png
+**Processing Time:** 22.03 seconds
+**Processed on:** 2025-09-18T13:46:58.453Z
 
-Fields
-======
-:supplier_name: 渝之旅旅游旗舰店
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date:
-:total_amount: 279.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: other_financial
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name: 万旭涛
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+1:28
+< 订单详情
+46
+5
+渝之旅旅游旗舰店 >
+重庆旅投| 谕之林
+越南·一个月单次入境·昆明 ¥279.00
+送签·越南签证加急另纸签...
+【另纸签】费用全含无需落地签+6工出...x1
+越南签证 仅需护照+照片
+国企保障・全国办理·专业服务
+在线办理
+售后退款
+服务保障
+在线办理,进度透明,真实出签率保障中>
+退改政策
+已办理,不可全额退
+详情>
+实付金额
+办签信息
+姓名
+万旭涛 17726298936
+¥279.00 明细>
+商家邮寄地址
+地址
+签证部
+复制
+请将办签材料寄往该地址
+买家收货地址
+联系飞猪
+联系卖家

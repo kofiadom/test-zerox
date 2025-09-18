@@ -1,80 +1,37 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for chinese_file_13.png
 
-File
-====
-:Name: chinese_file_13.png
-:Alias:
-:Page Count: 1
-:MIME Type: image/png
+**Processing Time:** 10.82 seconds
+**Processed on:** 2025-09-18T13:45:39.952Z
 
-Fields
-======
-:supplier_name:
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number:
-:date: 2024-10-23
-:total_amount: 240840.0
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: other_financial
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+```text
+<
+1:23
+交易时间
+明细详情
+-240,840.00
+余额:-242.71
+47
+山
+2024-10-23
+记账日期
+2024-10-25 22:38:49
+交易卡号
+4505****8686
+业务摘要
+境外消费
+交易国家或地区简称
+VNM
+交易场所
+PAYOO-PIZZA4PS 35
+交易金额
+记账金额
+240,840.00
+9.49
+记账币种
+交易卡余额
+查询完整交易卡号或账户
+美元
+-242.71
+```

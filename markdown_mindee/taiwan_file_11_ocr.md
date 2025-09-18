@@ -1,80 +1,30 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for taiwan_file_11.jpg
 
-File
-====
-:Name: taiwan_file_11.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 20.22 seconds
+**Processed on:** 2025-09-18T13:50:41.634Z
 
-Fields
-======
-:supplier_name: 上海香雪海国际贸易有限公司
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number: 001580
-:date: 2025-05-21
-:total_amount: 46.5
-:total_net:
-:total_tax:
-:taxes:
-:line_items:
-:document_type: receipt
-:locale:
-  :language:
-  :country:
-  :currency:
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+● 银联商务
+UMB
+银联商务特约商户POS签购单
+(银行卡)
+持卡人存根 请妥善保管
+
+商户名称:上海香雪海国际贸易有限
+公司
+商户号:104310053114870
+终端号:31711040
+款台号:G84
+操作员号:8 404
+日期时间:2025-05-21 15:25:20
+卡 号:469521******3951/C
+交易类型:消费
+发卡行:中国银行
+批次号:001094
+凭证号:001580
+系统参考号:152520000950
+金额 RMB:46.50
+卡组织:visa 授权码:387667
+ARQC:80DE2FBD38COF727
+备注:

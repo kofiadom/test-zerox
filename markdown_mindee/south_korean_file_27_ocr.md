@@ -1,89 +1,40 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for south_korean_file_27.pdf
 
-File
-====
-:Name: south_korean_file_27.pdf
-:Alias:
-:Page Count: 1
-:MIME Type: application/pdf
+**Processing Time:** 12.43 seconds
+**Processed on:** 2025-09-18T13:49:02.756Z
 
-Fields
-======
-:supplier_name: 종로보쌈
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number: 21TARN
-:date: 2025-05-12
-:total_amount: 37300.0
-:total_net: 38000.0
-:total_tax: 0.0
-:taxes:
-:line_items:
-  * :description: 종로보쌈 (대)
-    :quantity: 1.0
-    :unit_price: 38000.0
-    :total_price: 38000.0
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure:
-:document_type: receipt
-:locale:
-  :language: ko
-  :country: KR
-  :currency: KRW
-:customer_name:
-:customer_address:
-  :address: 서울특별시 서대문구
+---
+
+Receipt
+
+종로보쌈
+OrderID: 21TARN
+2025-05-12 12:37
+
+종로보쌈 (대)
+₩38,000
+
+Order amount
+₩38,000
+Delivery fee
+₩0
+Instant discount
+- ₩700
+Discount
+₩0
+
+토스뱅크 Payment
+₩37,300
+
+Total
+₩37,300
+
+(Delivery Address) 서울특별시 서대문구
 독립문공원길 17 112-901
-  :street_number: 17
-  :street_name: 독립문공원길
-  :po_box:
-  :address_complement:
-  :city: 서울특별시
-  :postal_code: 112-901
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+
+토스뱅크 ********1413 Payment complete
+
+The store you ordered from bears a commission
+fee of 2-7.8%, a payment processing fee (within
+3%), and a delivery fee (1,900-3,400 KRW)
+*Certain stores may have different commission

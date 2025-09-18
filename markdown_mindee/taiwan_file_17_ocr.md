@@ -1,91 +1,63 @@
-Inference
-#########
-Model
-=====
-:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+# Raw Text OCR Results for taiwan_file_17.jpg
 
-File
-====
-:Name: taiwan_file_17.jpg
-:Alias:
-:Page Count: 1
-:MIME Type: image/jpeg
+**Processing Time:** 19.04 seconds
+**Processed on:** 2025-09-18T13:51:17.957Z
 
-Fields
-======
-:supplier_name: BEIJING TAXI
-:supplier_phone_number:
-:customer_company_registration:
-:supplier_company_registration:
-:invoice_number: 111002081004
-:date: 2025-05-24
-:total_amount: 53.1
-:total_net: 52.1
-:total_tax: 1.0
-:taxes:
-  * :rate: 0.0
-    :base: 52.1
-    :amount: 1.0
-:line_items:
-  * :description: Fare
-    :quantity: 16.9
-    :unit_price: 3.45
-    :total_price: 52.1
-    :product_code:
-    :tax_amount:
-    :tax_rate:
-    :unit_measure: km
-:document_type: invoice
-:locale:
-  :language: zh
-  :country: CN
-  :currency: CNY
-:customer_name:
-:customer_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:shipping_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:billing_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city:
-  :postal_code:
-  :state:
-  :country:
-:supplier_address:
-  :address:
-  :street_number:
-  :street_name:
-  :po_box:
-  :address_complement:
-  :city: BEIJING
-  :postal_code:
-  :state:
-  :country: CN
-:due_date:
-:po_number:
-:reference_numbers:
-:payment_date:
-:supplier_payment_details:
-:supplier_website:
-:supplier_email:
-:customer_id:
+---
+
+存S 2DS SIN
+根B
+OTUB
+0001140
+北京市出租汽奉专用发票
+BEIJING TAXI SPECIAL, INVOICE
+北发票联的
+INVOICE
+111002081004
+33484064
+单位
+Company
+电话
+Tel
+车号京
+Taxi No.
+证号
+Certificate NoPA007
+日期
+2025-05-24
+Date
+时间
+Time
+10:18-10:49
+单价
+Price per km
+3.45
+里程
+Distance
+16.9
+等候
+Waiting time
+00:11:51
+状态
+State
+金额
+Fare
+燃油附加费
+Fuel oil surcharge
+预约叫车服务费
+Call service suroflargeE0
+实收金额
+Totals
+卡号
+租
+Card No.
+卡原额
+公画
+Previous ace.
+卡余额
+1
+¥52.10
+Card Balance
+密码
+Password
+---
