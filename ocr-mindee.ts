@@ -2,8 +2,8 @@ import { ClientV2, InferenceParameters, PathInput } from 'mindee';
 import * as fs from 'fs';
 import * as path from 'path';
 
-const api_key = "md_3ivi793hFgEG7bjpYebaJqy7ACfyXHPZ";
-const model_id = "e0c71f16-ffde-448a-8973-dfa878a6ede8";
+const api_key = "";
+const model_id = "";
 
 // Init a new client
 const mindee_client = new ClientV2({ apiKey: api_key });

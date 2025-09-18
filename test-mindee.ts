@@ -2,9 +2,9 @@ const mindee = require("mindee");
 // for TS or modules:
 // import * as mindee from "mindee";
 
-const apiKey = "md_3ivi793hFgEG7bjpYebaJqy7ACfyXHPZ";
-const filePath = "./files/chinese_file_1.jpeg";
-const modelId = "e0c71f16-ffde-448a-8973-dfa878a6ede8";
+const apiKey = "";
+const filePath = "";
+const modelId = "";
 
 // Init a new client
 const mindeeClient = new mindee.ClientV2({ apiKey: apiKey });
