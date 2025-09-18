@@ -1,0 +1,25 @@
+{
+  "completionTime": 13338,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp2212source6ab0686d7bc64c8e8e54e18591c02887",
+  "inputTokens": 1747,
+  "outputTokens": 306,
+  "pages": [
+    {
+      "content": "# Completed\n\n## Tue, May 13, 2025\n\n### NEXT\n\n서수빈's ride\n\n21:26 ☐ 서울 중구 을지로7가 2-12 서울메트로 동대문 별관\n\n21:44 ■ 서울 서대문구 현저동 200 독립문극동아파트 112동\n\n### Driver 심장섭\n서울380ㅏ3057\nMy rating: Satisfied 😊\n\nPrime Driver | Charter | Rating 90% | 1000+ trips | Deluxe License\n\nMark as My Driver\n\n### Q Lost and found\n\n## Fare details\n\n<table>\n  <tr>\n    <td>Fare</td>\n    <td>₩15,800</td>\n  </tr>\n  <tr>\n    <td colspan=\"2\">* Surge pricing 1.32x</td>\n  </tr>\n  <tr>\n    <td>Total fare</td>\n    <td>₩15,800</td>\n  </tr>\n  <tr>\n    <td>Payment method</td>\n    <td>현대**5411 Personal</td>\n  </tr>\n</table>",
+      "inputTokens": 1747,
+      "outputTokens": 306,
+      "contentLength": 578,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

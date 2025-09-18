@@ -1,10 +1,11 @@
-import { zerox } from "zerox";
-import * as fs from "fs";
-import * as path from "path";
 import * as dotenv from "dotenv";
 
 // Load environment variables
 dotenv.config();
+
+import { zerox } from "zerox";
+import * as fs from "fs";
+import * as path from "path";
 
 const FILES_DIR = "files";
 const OUTPUT_DIR = "ocr_output";

@@ -1,0 +1,25 @@
+{
+  "completionTime": 20975,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6450sourcef277564999b64f1a88a91b2b45f330c0",
+  "inputTokens": 1771,
+  "outputTokens": 422,
+  "pages": [
+    {
+      "content": "# AirAsia.com Payment Receipt\n\nBooking Number: ACSTJK\nGuest Name: XUTAO WAN\nPayment Type: CA\nPayment Date: 18Nov24, 01:29 PM\n\nDeparture Date: 11Nov24\nFlight No: FD 553\nChongqing to Bangkok - Don Mueang\nDepart: 07:55PM\nArrive: 10:20PM\n\nDeparture Date: 18Nov24\nFlight No: FD 552\nBangkok - Don Mueang to Chongqing\nDepart: 02:45PM\nArrive: 06:50PM\n\n<table>\n  <tr>\n    <td>Auto Seat Assignment:</td>\n    <td>0.00</td>\n  </tr>\n  <tr>\n    <td>Airport Baggage Purc:</td>\n    <td>2,100.00 THB</td>\n  </tr>\n  <tr>\n    <td>Auto Seat Assignment:</td>\n    <td>0.00</td>\n  </tr>\n  <tr>\n    <td>Total Cost:</td>\n    <td>2,100.00</td>\n  </tr>\n  <tr>\n    <td>Total Payment:</td>\n    <td>2,000.00 THB</td>\n  </tr>\n</table>\n\nThis receipt is NOT a tax invoice. Please \nrefer to https://taxinvoice.airasia.com\nfor your tax invoice.\n\nThis purchase is subject to AirAsia's\nGeneral Terms & Conditions of Carriage\nand payment signifies acknowledgment and\nacceptance of such terms and conditions\nby all passengers named herein.\n\n<watermark>PAID</watermark>",
+      "inputTokens": 1771,
+      "outputTokens": 422,
+      "contentLength": 1029,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

@@ -1,6 +1,6 @@
 # OCR Results for file_2.jpg
 
-**Processing Time:** 11.55 seconds
+**Processing Time:** 10.62 seconds
 **Pages:** 1
 **Input Tokens:** 1771
 **Output Tokens:** 219

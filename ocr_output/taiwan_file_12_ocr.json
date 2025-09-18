@@ -1,0 +1,25 @@
+{
+  "completionTime": 13436,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp8512sourcec7ac6f5e17334cc79a066ed9af1027cf",
+  "inputTokens": 1383,
+  "outputTokens": 303,
+  "pages": [
+    {
+      "content": "<logo>BANK OF COMMUNICATIONS<logo>\n\n商户名称(MERCHANT NAME):\n北京方向集团有限公司方向酒店管理分公司\n\n商户编号(MERCHANT NO):\n301110070110866\n\n终端编号(TERMINAL NO): 00000021\n操作员号(OPERATOR NO): 01\n交易类型(TRANS TYPE):\n扫码支付-消费(SALE)\n交易渠道(TRANS CHANNEL):\n微信\n\n批次号(BATCH NO): 000016\n凭证号(VOUCHER NO): 005209\n票据号(CHECK NO): 002604\n日期/时间(DATE/TIME):\n2025/05/24 09:29:16\n交易流水号: 20250524092910301110\n070110866000000210052091\n联机交易流水号: 202505240929120\n0110015658Y\n订单号:\n010120250524092912000025658Y\n\n[Barcode]\n\n[QR Code]\n\n交易金额(AMOUNT):\nRMB 58.00\n\n备注(REFERENCE):\nCENTREM-KM-V2.0.38 付款人存根",
+      "inputTokens": 1383,
+      "outputTokens": 303,
+      "contentLength": 538,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

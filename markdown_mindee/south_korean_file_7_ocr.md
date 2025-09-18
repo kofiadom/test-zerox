@@ -1,0 +1,82 @@
+Inference
+#########
+Model
+=====
+:ID: e0c71f16-ffde-448a-8973-dfa878a6ede8
+
+File
+====
+:Name: south_korean_file_7.pdf
+:Alias:
+:Page Count: 1
+:MIME Type: application/pdf
+
+Fields
+======
+:supplier_name: G마켓
+:supplier_phone_number: 02-1566-5701
+:customer_company_registration:
+:supplier_company_registration:
+  * :number: 2208183676
+    :type: TAX_ID
+:invoice_number: 00299886
+:date: 2025-05-11
+:total_amount: 33930.0
+:total_net: 33930.0
+:total_tax: 0.0
+:taxes:
+:line_items:
+:document_type: receipt
+:locale:
+  :language: ko
+  :country: KR
+  :currency: KRW
+:customer_name:
+:customer_address:
+  :address:
+  :street_number:
+  :street_name:
+  :po_box:
+  :address_complement:
+  :city:
+  :postal_code:
+  :state:
+  :country:
+:shipping_address:
+  :address:
+  :street_number:
+  :street_name:
+  :po_box:
+  :address_complement:
+  :city:
+  :postal_code:
+  :state:
+  :country:
+:billing_address:
+  :address:
+  :street_number:
+  :street_name:
+  :po_box:
+  :address_complement:
+  :city:
+  :postal_code:
+  :state:
+  :country:
+:supplier_address:
+  :address: 서울 강남구 테헤란로 152, 34-37층 (역삼 동, 강남파이낸스센터)
+  :street_number: 152
+  :street_name: 테헤란로
+  :po_box:
+  :address_complement: 34-37층 (역삼 동, 강남파이낸스센터)
+  :city: 강남구
+  :postal_code:
+  :state:
+  :country: KR
+:due_date:
+:po_number:
+:reference_numbers:
+:payment_date:
+:supplier_payment_details:
+:supplier_website: www.hyundaicard.com
+:supplier_email:
+:customer_id:

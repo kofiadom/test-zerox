@@ -1,0 +1,25 @@
+{
+  "completionTime": 12955,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp2807sourcee215787920854ce0939f0726fe45a2b8",
+  "inputTokens": 1719,
+  "outputTokens": 238,
+  "pages": [
+    {
+      "content": "# 明细详情\n\n-240,840.00\n余额: -242.71\n\n| 项目 | 详情 |\n|------|------|\n| 交易时间 | 2024-10-23 |\n| 记账日期 | 2024-10-25 22:38:49 |\n| 交易卡号 | 4505****8686 |\n| 业务摘要 | 境外消费 |\n| 交易国家或地区简称 | VNM |\n| 交易场所 | PAYOO-PIZZA4PS 35 |\n| 交易金额 | 240,840.00 |\n| 记账金额 | 9.49 |\n| 记账币种 | 美元 |\n| 交易卡余额 | -242.71 |\n\n☐ 查询完整交易卡号或账户",
+      "inputTokens": 1719,
+      "outputTokens": 238,
+      "contentLength": 289,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

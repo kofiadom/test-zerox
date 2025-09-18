@@ -1,0 +1,25 @@
+{
+  "completionTime": 16524,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6903sourcee80210546c3f4264b6b731d060e6966a",
+  "inputTokens": 1327,
+  "outputTokens": 378,
+  "pages": [
+    {
+      "content": "<logo>Starbucks Coffee China</logo>\n北京首都国际机场7店\nBJ Airport T3\nTel:010-64530526\n405443 Shizheng SHI\n\n2786\n\n12:04:11\n\n外带\n\n25 星冰乐冰透现焙（白）         198.00\n1 中/冰/儿利时黑巧星冰乐【\n星冰乐】                        38.00\n\n小计                           236.00\n付款                           236.00\n找零                             0.00\nWechat                         236.00\n\n-----------已结账单------------\n24 5月 25\n\n登录星巴克中国APP联系在线客服获得帮助\n或拨打顾客关怀热线:4008206998\nService Hotline:4008206998\n\n如您需要当日的电子发票，请务必在消费当日\n申请，此二维码及提取码50天有效。\n收银小票是您获取电子发票的唯一凭证，请妥\n善保管。\n1.您可使用支付宝、微信、银联云闪付APP\n扫描二维码\n\n[QR Code]\n\n2.也可登录网站\nhttps://invoice.starbucks.com.cn\n根据指引步骤开具电子发票\n取码：2128165cfdb921b057e5a\n\n订单码\n[QR Code]",
+      "inputTokens": 1327,
+      "outputTokens": 378,
+      "contentLength": 653,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "completionTime": 9491,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6036source6e8dc9b3230c4b5fa96f705d0920ffdf",
+  "inputTokens": 1719,
+  "outputTokens": 229,
+  "pages": [
+    {
+      "content": "# 明细详情\n\n-765.05\n余额: -491.69\n\n| 项目 | 详情 |\n|------|------|\n| 交易时间 | 2024-11-15 |\n| 记账日期 | 2024-11-17 22:38:09 |\n| 交易卡号 | 4505****8686 |\n| 业务摘要 | 境外消费 |\n| 交易国家或地区简称 | THA |\n| 交易场所 | HYATT PLACE BANGKOK |\n| 交易金额 | 765.05 |\n| 记账金额 | 22.02 |\n| 记账币种 | 美元 |\n| 交易卡余额 | -491.69 |\n\n查询完整交易卡号或账户 ☐",
+      "inputTokens": 1719,
+      "outputTokens": 229,
+      "contentLength": 284,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

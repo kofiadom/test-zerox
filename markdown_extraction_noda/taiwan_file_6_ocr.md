@@ -1,0 +1,15 @@
+# OCR Results for taiwan_file_6.jpg
+
+**Processing Time:** 62.03 seconds
+**Pages:** 1
+**Input Tokens:** 2575
+**Output Tokens:** 184
+
+## Extracted Content
+
+### Page 1
+
+1a.S 3005 5514  MERCHANT 03-6256-0717  TERM No 84029-620-18719 DATE 2025/05/19 09:49:12 415442*****5666 IC ACCT # CARD COMPANY CARD COMPANY APP CODE 0515575 TRAN No 0159671  05306 XX/XX 110 310  ¥1,372 AMOUNT ARC 00 ATC 00471 No. 00 AID A0000000031010 VISA APP.LABEL Visa Debit  SALES CLERK GMO-FG
+
+---
+

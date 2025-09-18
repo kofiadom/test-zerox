@@ -1,0 +1,25 @@
+{
+  "completionTime": 14513,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp4807sourceefd4393bec8f44639e2ba8e56c4e0392",
+  "inputTokens": 1743,
+  "outputTokens": 356,
+  "pages": [
+    {
+      "content": "# 카드매출전표(전자영수증)\n\n## 스타벅스 코리아\n\nMASTER 결제\n2025.05.12 20:52:07 / 일시\n\n### 30,000원\n\n공급가액: 27,273원\n부가세: 2,727원\n봉사료: 0원\n\n전화번호: 02-1522-3232\n주소: 서울 중구 퇴계로 100 (회현동2가, 스테이트타워남산)\n가맹점번호: 760650227\n사업자 등록번호: 2018121515\n대표자명: 손정현\n업종: 상품권\n승인번호: 54780250\n카드번호: 5521-20**-****-5393\n\n본 매출표는 신용카드 이용에 따른 증빙용으로 비씨카드사에서 발급한 것임을 확인합니다.\n\n<logo>BC 비씨카드주식회사<logo>\n\n본 매출내역은 증빙용입니다.\n원본 매출표에 대한 사본이 필요하신 경우 BC카드 고객상담센터(1588-4000)로 문의하여 주시기 바랍니다.",
+      "inputTokens": 1743,
+      "outputTokens": 356,
+      "contentLength": 418,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

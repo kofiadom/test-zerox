@@ -1,0 +1,25 @@
+{
+  "completionTime": 12650,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp4531sourcea48f22adf2654d50bb977eb601b03fde",
+  "inputTokens": 1439,
+  "outputTokens": 277,
+  "pages": [
+    {
+      "content": "# National Credit Card Center\n\nCHENG MENG GLOBAL LTD.\n商店代號: 1407201070\n端末機代號: 23604080\n\n---\n\n城市別(City): TAOYUAN CITY\n卡別(Card Type): VISA\n卡號(Card No.): 415442******5666(T)\n檢查碼(Check No.): 58655\n\n主機別/交易類別(Host/Trans.Type):\nNCCC    00 一般交易 SALE\n\n批次號碼(Batch No.): 002\n授權碼(Auth Code): 875818\n\n日期/時間(Date/Time):\n2025/05/18 12:43\n\n序號(Ref. No.): 90408002056\n調閱編號(Inv. No.): 000056\n\n櫃號(Store ID):\n14007PH72701300\n\n總計(Total): NT$320\n\n免簽名\n持卡人存根\nCard Holder Stub\n\n---\n\nI AGREE TO PAY TOTAL AMOUNT\nACCORDING TO CARD ISSUER AGREEMENT",
+      "inputTokens": 1439,
+      "outputTokens": 277,
+      "contentLength": 519,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

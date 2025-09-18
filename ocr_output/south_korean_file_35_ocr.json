@@ -1,0 +1,25 @@
+{
+  "completionTime": 20113,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6821source9dd376898de446899a8c5ca8bad6762d",
+  "inputTokens": 1047,
+  "outputTokens": 664,
+  "pages": [
+    {
+      "content": "←\n\n🚕 택시 이용 상세 25.05.19\n\n### 운행 정보\n출발 | 모올\n도착 | 빈브리지스 커피하우스 서울\n운행 시간 | 19:53 - 20:04\n호출 옵션 | 블루퍼티너스\n\n### 택시 정보\n상호 | 유흥상운(주)\n차량 번호 | 서울 33 자 4379 | 쏘나타\n기사님 | 인창현\n제휴 브랜드 | 블루\n\n### 요금 정보\n운행 요금 | 7,000원\n결제 금액 | 7,000원\n결제 수단 | 카카오페이\n | 네이버 현대카드 4045\n결제 일시 | 25.05.19 20:04\n\n[기내확인증]\n\n### 부가서비스 요금 정보\n블루파트너스 이용료 | 3,000원\n결제 금액 | 3,000원\n결제 수단 | 카카오페이\n | 네이버 현대카드 4045\n결제 일시 | 25.05.19 20:04\n\n[기내확인증]\n\n<table>\n  <tr>\n    <td style=\"width: 50%; text-align: center; background-color: #007bff; color: white;\">공유하기</td>\n    <td style=\"width: 50%; text-align: center; background-color: #007bff; color: white;\">저장하기</td>\n  </tr>\n</table>\n\n• 실제 요금과 다를 수 있습니다.\n• 부가지처세법 상 정격 증빙이 필요한 경우 카드사에서 발급하는 카드전표를 이용하여 주시기 바랍니다.\n• 가족계정 대표는 구성원 이용기록의 요금정보만 확인이 가능합니다.\n\n### 고객 지원\n\n<table>\n  <tr>\n    <td>기사님께 전화</td>\n    <td>이용객체 문의</td>\n  </tr>\n  <tr>\n    <td>서비스 문의</td>\n    <td>자주 묻는 질문</td>\n  </tr>\n</table>",
+      "inputTokens": 1047,
+      "outputTokens": 664,
+      "contentLength": 881,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "completionTime": 10873,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp2792source4b52f355473c44208f3a7b7417edf237",
+  "inputTokens": 1215,
+  "outputTokens": 191,
+  "pages": [
+    {
+      "content": "# 北京市出租汽车专用发票\n# BEIJING TAXI SPECIAL INVOICE\n\n<logo>北农票联</logo>\nINVOICE\n\n111002081004\n33484064\n\nCompany: \nTel: \n\nTaxi No.: 京\nCertificate No.: 000007\n\nDate: 2015-12-24\nTime: 10:49\nPrice per km: 2.3\nDistance: 15.9\nWaiting time: 0:01\nState: 1\nFare: 52.10\nFuel oil surcharge: 1.00\nCall service surcharge: \nTotal: 53.10\nCard No.: \nPrevious Card Balance: \nCard Balance: \n\nPassword: [Redacted]\n\n<watermark>机打发票有效</watermark>",
+      "inputTokens": 1215,
+      "outputTokens": 191,
+      "contentLength": 417,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

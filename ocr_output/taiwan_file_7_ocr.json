@@ -1,0 +1,25 @@
+{
+  "completionTime": 17058,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6833sourcee58425ec2eb74c15b6af964141b90509",
+  "inputTokens": 1775,
+  "outputTokens": 406,
+  "pages": [
+    {
+      "content": "# LAWSON\n\n丸の内仲通りビル店\n登録番号：T8010001137238\n東京都千代田区丸の内2-2-3\n電話：03-3211-3963 店コード：130292\n\n2025年 5月19日(月) 15:48\nレジ：#2 19148 責：高松\n\n## クレジット売上票\n[お客様控え]\n\n| 商品                                   | 価格   |\n|----------------------------------------|--------|\n| ネスレ キットカットバー 1ホン          | 151軽  |\n| サーモンホグソドリチリソースナマハルマキ | 473軽  |\n| 合計                                   | ¥624   |\n| (内消費税等                            | ¥46)   |\n| ( 8%対象                               | ¥624)  |\n| (内消費税額                            | ¥46)   |\n\n点数: 2個\n\n軽印は軽減税率対象商品です。\n\n---\n\n買上金額: ¥624\nクレジット取扱合計: ¥624\nCL VISA 有効期限****/\\**\n会員No \\****-****-****-5666\nお取扱日 2025年 5月19日\n支払方法 一回\n承認番号 0059079\n処理通番 74814\nAID A000000003101０\nAPL Visa Debit\n\n<watermark>19.5 minutes</watermark>",
+      "inputTokens": 1775,
+      "outputTokens": 406,
+      "contentLength": 733,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

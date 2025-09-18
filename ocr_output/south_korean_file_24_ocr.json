@@ -1,0 +1,25 @@
+{
+  "completionTime": 8400,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp2023sourceea258aa44c6d47369c50c1a7aedfed20",
+  "inputTokens": 1765,
+  "outputTokens": 105,
+  "pages": [
+    {
+      "content": "# 🚕 택시\n\n날짜: 25.05.18\n운행 시간: 12:20 - 12:33\n호출 일반\n출발: 곤지암역 택시승강장\n도착: 화담숲\n금액: 10,700원\n\n[기사님께 전화] [평가하기]\n\n[이중결제 문의]",
+      "inputTokens": 1765,
+      "outputTokens": 105,
+      "contentLength": 112,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

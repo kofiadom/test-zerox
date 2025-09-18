@@ -1,0 +1,25 @@
+{
+  "completionTime": 15063,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6155sourceea47809a5ccb45b78586c44069725ab5",
+  "inputTokens": 935,
+  "outputTokens": 353,
+  "pages": [
+    {
+      "content": "# 計程車乘車證明\n\n桃園國際機場：083\n駕駛姓名：韓曉弘翔\n行動電話：0910285625\n申訴電話：03-383-4499\n\n序號 (No.)：010521\n車號 (Plate)：TDX5229\n上車 (Start)：\n2025/05/24 18:54:30\n下車 (End)：\n2025/05/24 19:30:16\n車資 (Total,$)：1390\n申訴電話 (Service#)：\n03-3341999\n\n費率版本 (Fare Ver.)：\n桃機場108-12\n里程 (Dist.,km)：44.5\n停等時間 (Wait,h:m:s)\n00:03:01\n跳表金額 (Fare,$)：\n1360\n國道高速公路\n(Freeway)\n通行費費率\n(Rate,$/km)：1.2\n計費門架版本\n(Ver.)：104.09.04\n進入交流道 (In)：\n機場系統\n離開交流道 (Out)：\n圓山\n通行費 (Toll,$)：30\n計費表版牌\n(Meter)：JHH4\n計費表精機\n(Meter S/N)：08820",
+      "inputTokens": 935,
+      "outputTokens": 353,
+      "contentLength": 458,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

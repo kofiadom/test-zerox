@@ -1,0 +1,25 @@
+{
+  "completionTime": 12054,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp7567sourcef9954db481e94ba4b5182d3b3d43d7b5",
+  "inputTokens": 1663,
+  "outputTokens": 289,
+  "pages": [
+    {
+      "content": "# 신동공감자탕뼈숯불구이\n\n## 47,000원\n\n메모를 남겨 보세요 (최대 30자)\n\n- 식비\n- 여행비\n- 커피 · 간식\n- 패션\n- 생활 ▼\n\n### 결제 정보\n\n| 항목 | 내용 |\n|------|------|\n| 거래 일자 | 25. 5. 14 |\n| 결제 구분 | 일시불 |\n| 이용 금액 | 47,000원 |\n| 예상 적립(율) | 470(1.0%) |\n| 결제 카드 | 네이버 현대카드 |\n| 카드 소지자 | 본인 |\n\n서울 강남구 선릉로86길 39, 1층 (대치동)\n[지도보기]  02-558-7944  가맹점 상세 ▼\n\n[저장]\n\n<page_number>4:01</page_number>",
+      "inputTokens": 1663,
+      "outputTokens": 289,
+      "contentLength": 337,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

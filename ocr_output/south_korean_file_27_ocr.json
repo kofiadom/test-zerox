@@ -1,0 +1,25 @@
+{
+  "completionTime": 13506,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6976source71f549a31c894aaf8894496ab54230cb",
+  "inputTokens": 1663,
+  "outputTokens": 281,
+  "pages": [
+    {
+      "content": "# Receipt\n\n종로보쌈\nOrderID: 21TARN\n2025-05-12 12:37\n\n| Item | Amount |\n|------|--------|\n| 종로보쌈 (대) | ₩38,000 |\n| Order amount | ₩38,000 |\n| Delivery fee | ₩0 |\n| Instant discount | -₩700 |\n| Discount | ₩0 |\n| 토스뱅크 Payment | ₩37,300 |\n| **Total** | **₩37,300** |\n\n(Delivery Address) 서울특별시 서대문구 독립문공원길 17 112-901\n\n토스뱅크 ********1413 Payment complete\n\nThe store you ordered from bears a commission fee of 2-7.8%, a payment processing fee (within 3%), and a delivery fee (1,900-3,400 KRW)\n*Certain stores may have different commission\n\n<page_number>4:04</page_number>\n\n[Navigation bar at bottom]\nHome | Search | Favorite | Orders | My Eats",
+      "inputTokens": 1663,
+      "outputTokens": 281,
+      "contentLength": 632,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

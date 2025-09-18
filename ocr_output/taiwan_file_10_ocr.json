@@ -1,0 +1,25 @@
+{
+  "completionTime": 23021,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp8475sourcea07552b3a72444c68848d24620c38a55",
+  "inputTokens": 1327,
+  "outputTokens": 643,
+  "pages": [
+    {
+      "content": "クレジット利用明細(お客様控)\n\n<logo>STARBUCKS</logo>\n\nアクアシティお台場店\n#961 TEL 03-5564-2010\n\n1 ドリップ コーヒー               400¥\n1 ドリップ スターバックス ラテ    464¥\n1 スタンレスタンブラーブラック355ml 2,664¥\n本体合計(3点)                    3,528\n(10%対象     2,664   消費税     266)\n( 8%対象      864   消費税      69)\n総合計                          4,083\n\n三井住友(V/M)                    4,083\nお釣り                              0\n\nカード会社 三井住友(V/M)\n会員番号 415442XXXXXX5666\n有効期限 XX年XX月\n支払方法 一括払い\n承認番号 503256\n処理通番 43491\n伝票番号 05361\nAID A0000000031010\nApplication Label Visa Debit\n100\n「軽」印は軽減税率(8%)適用商品\n0101155300001 387948 2025/05/20 11:40:39\n\n[バーコード]\n\nスターバックス コーヒー ジャパン株式会社\n登録番号 T7011001031943\n\n発行日:05/20\n\n---\n\nOne More Coffee ご案内\n\nドリップ コーヒー(カフェミストも含む)ご購入時のレシートを当日営業終了\nまでにお持ちいただくと2杯目のドリップコーヒーを180円/190円(税込価格)で、\n店内利用またはカフェミストを210円/245円(税込価格)でお楽しみいただけます。\n※お受け取りは本日中に限ります。※他の割引との併用はできません。\n※価格は全て税込価格です。\n\nWeb登録済みのスターバックス カードでご購入の場合は、ドリップ コーヒー\n(Short)を130円/140円(税込価格)、カフェミストを183円/185円\n(税込価格)でお楽しみいただけます。\n\n<logo>STARBUCKS REWARDS</logo>\nhttp://sbux.jp/rewards\n\n[QRコード]",
+      "inputTokens": 1327,
+      "outputTokens": 643,
+      "contentLength": 990,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

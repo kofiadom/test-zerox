@@ -1,0 +1,25 @@
+{
+  "completionTime": 9030,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp7221source1c19a576f73d4c809c56cc95a5b38dea",
+  "inputTokens": 1551,
+  "outputTokens": 173,
+  "pages": [
+    {
+      "content": "# 明细详情\n\n-256,500.00\n\n| Field | Value |\n|-------|-------|\n| Transaction time | 2024-10-18 22:39 |\n| Bookkeeping date | 2024-10-18 |\n| Transaction card number | 4505****8686 |\n| Business summary | 境外消费 |\n| Country/region abbreviation of transaction | IDN |\n| Transaction place | Grab* A-7XEIJ8GWWF6H |\n| Transaction amount | 256,500.00 |\n| Bookkeeping amount | 16.52 |\n| Bookkeeping currency | USD |\n| Balance of | [Redacted] |",
+      "inputTokens": 1551,
+      "outputTokens": 173,
+      "contentLength": 425,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

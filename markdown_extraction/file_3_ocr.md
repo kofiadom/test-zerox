@@ -1,6 +1,6 @@
 # OCR Results for file_3.jpg
 
-**Processing Time:** 18.73 seconds
+**Processing Time:** 18.17 seconds
 **Pages:** 1
 **Input Tokens:** 1757
 **Output Tokens:** 528

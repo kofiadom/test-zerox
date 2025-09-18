@@ -1,0 +1,25 @@
+{
+  "completionTime": 15984,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6092source312f6b5aa1644f34af1eb97d12f84988",
+  "inputTokens": 1758,
+  "outputTokens": 391,
+  "pages": [
+    {
+      "content": "# 카드매출전표 인터넷 제발급용(CARD SALES SLIP)\n\n카드번호 (4***-****-****-840*)\n\n| 항목 | 내용 |\n|------|------|\n| 승인번호 | 00299886 |\n| 거래일자 | 25. 5. 11 · 11:18:43 |\n| 결제방법 | 일시불 |\n| 가맹점명 | G마켓 |\n| 가맹점번호 | 103420763 |\n| 대표자명 | 정형권 |\n| 사업자등록번호 | 2208183676 |\n| 전화번호(TEL) | 02-1566-5701 |\n| 주소(ADDRESS) | 서울 강남구 테헤란로 152, 34-37층 (역삼동, 강남파이낸스센터) |\n| 금액 | 33,930 원 |\n| 부가세 | 0 원 |\n| 봉사료 | 0 원 |\n| 합계 | 33,930 원(승인) |\n\n고객센터(1577-6000)    www.hyundaicard.com\n\n본 매출전표는 매출내역 확인용으로 다른 용도로는 사용할 수 없으며 실제전표가 아닙니다.",
+      "inputTokens": 1758,
+      "outputTokens": 391,
+      "contentLength": 480,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

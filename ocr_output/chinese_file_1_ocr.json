@@ -1,0 +1,25 @@
+{
+  "completionTime": 25177,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp9246source73dd214d86134b01939d3266adb3e06b",
+  "inputTokens": 1719,
+  "outputTokens": 317,
+  "pages": [
+    {
+      "content": "# 订单详情\n\n## 上海星共国际旅行社专营店\n\n![印度尼西亚旅游签证广告图片，显示一位身穿红色传统服装的女性站在印度尼西亚寺庙前]\n\n印度尼西亚·旅游签证·全国送签·印尼电子签证个人旅...  \n30天停留【普通3工出】+拒签不退  \n¥450.00 x1\n\n**售后退款**\n\n### 退改政策\n已办理，不可全额退  [详情 >]\n\n### 实付金额\n¥ 256.00 [明细 >]\n\n### 办签信息\n\n姓名：万旭涛 17726298936\n\n### 商家邮寄地址\n\n地址：签证组,17621095007,上海上海市闵行区田林路1036号16号楼102  [复制]\n请将办签材料寄往该地址\n\n### 买家收货地址\n\n地址：不需要收货地址 不需要收货人\n\n[联系飞猪] | [联系卖家]",
+      "inputTokens": 1719,
+      "outputTokens": 317,
+      "contentLength": 346,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

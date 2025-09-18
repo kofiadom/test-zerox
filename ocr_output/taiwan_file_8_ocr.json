@@ -1,0 +1,25 @@
+{
+  "completionTime": 12795,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp4571source23d573b6b4954683a8286da7af36b32d",
+  "inputTokens": 1767,
+  "outputTokens": 262,
+  "pages": [
+    {
+      "content": "# 領収書\n\n日付: 2025年05月19日\n車番: 7321\n\n基本運賃: ¥1100-\n迎車料金: ¥500-\n合計: ¥1600-\n(内消費税等: ¥145-)\n\n---\n\n### 内訳\n\n現金支払: ¥1600-\n\n---\n\n登録番号: T20118010139863\n\nkmグループ 東京太陽株式会社\n東京都葛飾区四つ木5-5-18\n\n忘れ物、領収書問合せ: 03-5670-6778\n\nお客さま相談室: 0120-717-039\n\nkm呼ぶなら\n「S.RIDE」\nダウンロード用QRコード\n\n[QR Code Image]\n\nナビコード: A45-5344-0370\n(営業回数 8195)\n\n<watermark>19.5 / 8:46:15w</watermark>",
+      "inputTokens": 1767,
+      "outputTokens": 262,
+      "contentLength": 341,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

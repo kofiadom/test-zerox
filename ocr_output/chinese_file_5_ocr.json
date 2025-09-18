@@ -1,0 +1,25 @@
+{
+  "completionTime": 10240,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp6357source13b0d60f27f84b9c90887bb3de19cc11",
+  "inputTokens": 1551,
+  "outputTokens": 331,
+  "pages": [
+    {
+      "content": "# 明细详情\n\n-280,000.00\n\n<table>\n  <tr>\n    <td>Transaction time</td>\n    <td>2024-10-18 22:39</td>\n  </tr>\n  <tr>\n    <td>Bookkeeping date</td>\n    <td>2024-10-18</td>\n  </tr>\n  <tr>\n    <td>Transaction card number</td>\n    <td>4505****8686</td>\n  </tr>\n  <tr>\n    <td>Business summary</td>\n    <td>境外消费</td>\n  </tr>\n  <tr>\n    <td>Country/region abbreviation of transaction</td>\n    <td>IDN</td>\n  </tr>\n  <tr>\n    <td>Transaction place</td>\n    <td>SIGNAL CELLULAR</td>\n  </tr>\n  <tr>\n    <td>Transaction amount</td>\n    <td>280,000.00</td>\n  </tr>\n  <tr>\n    <td>Bookkeeping amount</td>\n    <td>18.04</td>\n  </tr>\n  <tr>\n    <td>Bookkeeping currency</td>\n    <td>USD</td>\n  </tr>\n</table>",
+      "inputTokens": 1551,
+      "outputTokens": 331,
+      "contentLength": 688,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}

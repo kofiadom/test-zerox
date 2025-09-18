@@ -1,0 +1,25 @@
+{
+  "completionTime": 11479,
+  "extracted": null,
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp7361source147f67a77a2942f3819893be8bc9b20d",
+  "inputTokens": 1663,
+  "outputTokens": 239,
+  "pages": [
+    {
+      "content": "<logo>银联商务 UMS</logo>\n\n银联商务特约商户POS签购单\n(银行卡) 请妥善保管\n\n商户名称: 上海香雪海国际贸易有限公司\n商 户 号: 104310053114870\n终 端 号: 31711040\n款 台 号: G84\n操作员号: 8 404\n日期时间: 2025-05-21 15:25:20\n卡    号: 469521******3951/C\n交易类型: 消费\n发卡行: 中国银行\n批次号: 001094\n凭证号: 001580\n系统参考号: 152520000950\n金额 RMB: 46.50\n卡组织: visa 授权码: 387667\nARQC: 80DE2FB038C0F727\n备    注:",
+      "inputTokens": 1663,
+      "outputTokens": 239,
+      "contentLength": 315,
+      "page": 1,
+      "status": "SUCCESS"
+    }
+  ],
+  "summary": {
+    "totalPages": 1,
+    "ocr": {
+      "successful": 1,
+      "failed": 0
+    },
+    "extracted": null
+  }
+}
