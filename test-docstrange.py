@@ -2,7 +2,7 @@ import os
 from docstrange import DocumentExtractor
 
 # Initialize extractor (cloud mode by default)
-extractor = DocumentExtractor(api_key="02f2e6a4-9539-11f0-8cc6-a275236cdc86")
+extractor = DocumentExtractor(api_key=" ")
 
 # Directory paths
 input_dir = "files"
