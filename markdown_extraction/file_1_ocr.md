@@ -1,6 +1,6 @@
 # OCR Results for file_1.jpg
 
-**Processing Time:** 9.97 seconds
+**Processing Time:** 12.52 seconds
 **Pages:** 1
 **Input Tokens:** 1771
 **Output Tokens:** 199
@@ -17,13 +17,13 @@
 电话：010-65871226
 传真：010-65871225
 
-859 交易1类    2593 1923 106
+859 交易1类     2593 1923 106
 
-00917407 DDD CHOC    1    10.00
+00917407 DDD CHOC     1     10.00
 总数量              1
-总额                   10.00
+总额                    10.00
 
-现金                   10.00
+现金                    10.00
 
 M&S官网和马莎天猫官方旗舰店
 正式全新震撼呈现
