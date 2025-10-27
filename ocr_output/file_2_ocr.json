@@ -1,15 +1,15 @@
 {
-  "completionTime": 11654,
+  "completionTime": 10647,
   "extracted": null,
-  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp9180source085a04a18d3e4ca6a8afd69b50f00f5c",
+  "fileName": "cuserskofi_adomappdatalocaltempzeroxtemp3956sourcebbe9336e1ad946ea8ab7187d28dd1e0c",
   "inputTokens": 1771,
-  "outputTokens": 219,
+  "outputTokens": 207,
   "pages": [
     {
-      "content": "# 摩码大药房销售小票\n\n日期: 2015-12-22\n时间: 13:18:10\n客户: 崔绮雯\n编号: 812228102\n\n3M 9001V自吸过滤式防颗粒物口罩耳\n带式 1只装\n数量: 5*8.0 金额: 40.0\n3M中国有限公司。\n批号:15391SH 效期:2019-12-01\n货架号:FA02004\n\n合计: 30.0\n摩码大药房: 4008699591\n地址: 金台北街5号楼\n药品为特殊商品，售出概不退换\n\n建外SOHO A座2603 建外SOHO A座260\n3\n\n[Barcode image]",
+      "content": "# 摩码大药房销售小票\n\n日期：2015-12-22\n时间：13:18:10\n客户：崔绮雯\n编号：812228102\n\n3M 9001V自吸过滤式防颗粒物口罩耳\n带式 1只装\n数量：5*8.0  金额：40.0\n3M中国有限公司。\n批号:15391SH  效期:2019-12-01\n货架号:FA02004\n\n合计：30.0\n摩码大药房：4008699591\n地址：金台北街5号楼\n药品为特殊商品，售出概不退换\n\n建外SOHO A座2603 建外SOHO A座2603\n\n[barcode]",
       "inputTokens": 1771,
-      "outputTokens": 219,
-      "contentLength": 259,
+      "outputTokens": 207,
+      "contentLength": 245,
       "page": 1,
       "status": "SUCCESS"
     }
